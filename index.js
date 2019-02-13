@@ -1,3 +1,5 @@
 var greeting = "Hello, everybody!";
 
-function gretSpecialGuest
+function gretSpecialGuest(string){
+  
+}
